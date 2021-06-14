@@ -2,8 +2,8 @@
     [
       {
         "id": 1,
-        "offender": "Asian guy",
-        "victim": "Black guy",
+        "offender": "Asian Guy",
+        "victim": "Black Guy",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
@@ -13,8 +13,8 @@
       },
       {
         "id": 2,
-        "offender": "Asian women",
-        "victim": "Black women",
+        "offender": "Asian Women",
+        "victim": "Black Women",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
@@ -24,8 +24,8 @@
       },
       {
         "id": 3,
-        "offender": "Black guy",
-        "victim": "White guy",
+        "offender": "Black Guy",
+        "victim": "White Guy",
         "time": "2020-Jan",
         "country": "Germany",
         "countryCode": "DE",
@@ -35,8 +35,8 @@
       },
       {
         "id": 4,
-        "offender": "Black women",
-        "victim": "White women",
+        "offender": "Black Women",
+        "victim": "White Women",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
@@ -46,8 +46,8 @@
       },
       {
         "id": 5,
-        "offender": "White guy",
-        "victim": "Asian guy",
+        "offender": "White Guy",
+        "victim": "Asian Guy",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
@@ -57,8 +57,8 @@
       },
       {
         "id": 6,
-        "offender": "White women",
-        "victim": "Asian women",
+        "offender": "White Women",
+        "victim": "Asian Women",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
@@ -68,7 +68,7 @@
       },
       {
         "id": 7,
-        "offender": "Black guy",
+        "offender": "Black Guy",
         "victim": "Asian women",
         "time": "2020-Jan",
         "country": "USA",
@@ -79,8 +79,8 @@
       },
       {
         "id": 8,
-        "offender": "White guy",
-        "victim": "Black women",
+        "offender": "White Guy",
+        "victim": "Black Women",
         "time": "2020-Jan",
         "country": "Germany",
         "countryCode": "DE",
@@ -90,8 +90,8 @@
       },
       {
         "id": 9,
-        "offender": "Asian guy",
-        "victim": "Black women",
+        "offender": "Asian Guy",
+        "victim": "Black Women",
         "time": "2020-Jan",
         "country": "United Kingdom",
         "countryCode": "GB",
@@ -102,7 +102,7 @@
       {
         "id": 10,
         "offender": "Black women",
-        "victim": "Asian women",
+        "victim": "Asian Women",
         "time": "2020-Jan",
         "country": "USA",
         "countryCode": "US",
